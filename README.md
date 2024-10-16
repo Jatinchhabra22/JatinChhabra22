@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jatin.chhabra22jc@gmail.com**
 
-- ⚡ Fun fact **I Try**
+- ⚡ Fun fact **I Try a lot **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
