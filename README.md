@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jatin chhabra" target="blank"><img src="https://img.shields.io/twitter/follow/jatin chhabra?logo=twitter&style=for-the-badge" alt="jatin chhabra" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
+- 🔭 I’m currently working on **ReactJs**
 
 - 🌱 I’m currently learning **Javascript,Reactjs**
 
