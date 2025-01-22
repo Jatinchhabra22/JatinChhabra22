@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jatinchhab42931" target="blank"><img src="https://img.shields.io/twitter/follow/jatinchhab42931?logo=twitter&style=for-the-badge" alt="jatinchhab42931" /></a> </p>
 
-- 🔭 I’m currently working on **learing JavaScript**
+- 🔭 I’m currently working on **learing JavaScript and ReactJs**
 
 - 🌱 I’m currently learning **ReactJs and Javascript**
 
