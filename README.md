@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b77b7036-1ac0-4147-bae1-82cc40d4cf0e)<h1 align="center">Hi 👋, I'm Jatin Chhabra</h1>
+<h1 align="center">Hi 👋, I'm Jatin Chhabra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src = "https://i.redd.it/n8agw6z2smyb1.gif">
