@@ -13,7 +13,6 @@
 ---
 
 ## 🚀 About Me  
-
 > I combine data analytics and frontend experience to turn raw data into clear business decisions.
 
 - 📊 **Data Analyst | Aspiring Data Scientist**
@@ -28,10 +27,10 @@
 ### 🔹 Data Science & Analytics
 - **Python, SQL**
 - **Power BI**
-- **Advanced Excel**
-- **Statistics (Basics)**
+- **Advanced Excel** (Pivot Tables, Power Query, Lookups)
+- **Statistics** (Descriptive & Inferential, Hypothesis Testing)
 - **EDA & Business Metrics**
-- **Snowflake | AWS | Azure (Basics)**
+- **Snowflake | AWS | Azure**
 
 ### 🔹 Frontend Development (Previous Experience)
 - **HTML5, CSS3, JavaScript (ES6+)**
@@ -68,7 +67,6 @@
 ---
 
 ## 📊 GitHub Activity  
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JatinChhabra22&theme=tokyonight&hide_border=true"/>
 </p>
@@ -76,6 +74,7 @@
 ---
 
 
+---
 
 📧 **jatin.chhabra22jc@gmail.com**  
 🔗 https://www.linkedin.com/in/jatin-chhabra-2b0455289/
