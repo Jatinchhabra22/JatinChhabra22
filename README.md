@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Future+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Tableau+|+Snowflake+|+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Aspiring+Data+Scientist+|+Data+Analyst;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
 </p>
 
 <p align="center">
@@ -14,59 +14,54 @@
 
 ## 🚀 About Me  
 
-> I don’t just analyze data — I turn raw numbers into clear business decisions.
+> I use data + design thinking to turn raw numbers into clear business decisions.
 
-- 📊 **Aspiring Data Analyst | Future Data Scientist**
+- 🧠 **Aspiring Data Scientist** with strong analytics foundation  
 - 🔁 Transitioned from **Frontend Development → Data Analytics**
-- 🧠 Strong in **Python, SQL, BI & Analytics workflows**
-- 📈 Hands-on with **end-to-end data projects**
-- 🎯 Career Goal: **Data Scientist / Data Engineer**
-
-👨‍💻 GitHub → https://github.com/JatinChhabra22  
+- 📊 Hands-on with **Python, SQL, BI & Cloud**
+- 🎯 Goal: **Data Scientist / Data Engineer**
 
 ---
 
 ## 🧠 Skills Snapshot
 
-### 🔹 Data & Analytics
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **SQL** (Joins, CTEs, Window Functions, Aggregations)  
-- **Power BI** (DAX, Data Modeling, Dashboards)  
-- **Tableau** (Interactive Dashboards)  
-- **Snowflake | AWS (Basics)**  
-- EDA • KPI Design • Business Insights • Data Cleaning • Statistics (Basics)
+### 🔹 Data Science & Analytics
+- **Python**, **SQL**
+- **Power BI**
+- **Advanced Excel** (Pivot Tables, Power Query, Lookups)
+- **Statistics** (Descriptive stats, distributions, hypothesis basics)
+- **EDA & Business Metrics**
+- **Snowflake | AWS | Azure (Basics)**
 
-### 🔹 Frontend (Previous Experience)
-- **HTML, CSS, JavaScript**
+### 🔹 Frontend Development (Previous Experience)
+- **HTML5, CSS3, JavaScript (ES6+)**
 - **React.js**
 - **Tailwind CSS**
 - Bootstrap  
-- **Axure RP (Wireframing & Prototyping)**
-
-> *Frontend background helps me design clean dashboards & communicate insights better.*
+- Responsive UI & dashboard-friendly layouts
 
 ---
 
 ## 🛠️ Tools & Technologies  
 
-### 📊 Data & Analytics
+### 📊 Data / Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 </p>
 
-### 🌐 Frontend & Design (Previous Experience)
+### 🌐 Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   
 </p>
 
@@ -75,18 +70,12 @@
 ## 🚀 Featured Projects  
 
 ### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**
-- Revenue, orders & operational KPI analysis  
-- Python EDA + SQL queries + Power BI dashboards  
+- KPI-driven sales & operations insights  
+- Python + SQL + Power BI dashboards  
 
 ### 🍔 **Swiggy Sales & Performance Analytics**
 - City & restaurant-level insights  
-- Business-focused interactive dashboards  
-
-✔️ Clean datasets  
-✔️ Python notebooks  
-✔️ SQL scripts  
-✔️ BI dashboards  
-✔️ Business insight documents  
+- Business-focused dashboards  
 
 ---
 
@@ -100,20 +89,9 @@
 
 ## 📅 Contribution Heatmap  
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/JatinChhabra22" />
-</p>
 
----
 
-## 📫 Let’s Connect  
+
 
 📧 **jatin.chhabra22jc@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/jatin-chhabra-2b0455289/  
-💻 GitHub: https://github.com/JatinChhabra22  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/>
-</p>
+🔗 https://www.linkedin.com/in/jatin-chhabra-2b0455289/
