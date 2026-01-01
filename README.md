@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Aspiring+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Aspiring+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+PostgreSQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
 </p>
 
 <p align="center">
@@ -13,22 +13,26 @@
 ---
 
 ## 🚀 About Me  
-> I combine data analytics and frontend experience to turn raw data into clear business decisions.
+
+> I combine frontend experience with data analytics to turn raw data into clear business decisions.
 
 - 📊 **Data Analyst | Aspiring Data Scientist**
 - 🔁 Transitioned from **Frontend Development → Data Analytics**
-- 🧠 Strong in **Python, SQL, BI, Cloud & Analytics**
+- 🧠 Strong in **Python, SQL, BI, Databases & Statistics**
 - 🎯 **Career Goal: Data Analyst / Data Scientist / Data Engineer**
+
+👨‍💻 GitHub → https://github.com/JatinChhabra22  
 
 ---
 
 ## 🧠 Skills Snapshot
 
 ### 🔹 Data Science & Analytics
-- **Python, SQL**
-- **Power BI**
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MySQL, **PostgreSQL**)
+- **Power BI** (DAX, Data Modeling, Dashboards)
 - **Advanced Excel** (Pivot Tables, Power Query, Lookups)
-- **Statistics** (Descriptive & Inferential, Hypothesis Testing)
+- **Statistics** (Descriptive & Inferential)
 - **EDA & Business Metrics**
 - **Snowflake | AWS | Azure**
 
@@ -39,6 +43,8 @@
 - Bootstrap  
 - Responsive UI & dashboard-friendly layouts
 
+> *Frontend background helps me build better dashboards and communicate insights clearly.*
+
 ---
 
 ## 🛠️ Tools & Technologies  
@@ -46,6 +52,7 @@
 ### 📊 Data / Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
@@ -66,7 +73,28 @@
 
 ---
 
+## 🚀 Featured Projects  
+
+### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**
+- Analyzed revenue, orders & operational KPIs  
+- Built **end-to-end analytics pipeline**  
+- Designed interactive Power BI dashboards  
+
+**Tech Stack:** Python • SQL • **PostgreSQL** • Power BI • Excel  
+
+---
+
+### 🍔 **Swiggy Sales & Performance Analytics**
+- City & restaurant-level sales analysis  
+- Identified demand patterns & growth opportunities  
+- Delivered business-focused recommendations  
+
+**Tech Stack:** Python • SQL • **PostgreSQL** • Power BI  
+
+---
+
 ## 📊 GitHub Activity  
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JatinChhabra22&theme=tokyonight&hide_border=true"/>
 </p>
@@ -74,5 +102,10 @@
 ---
 
 
+---
+
+## 📫 Let’s Connect  
+
 📧 **jatin.chhabra22jc@gmail.com**  
-🔗 https://www.linkedin.com/in/jatin-chhabra-2b0455289/
+🔗 LinkedIn: https://www.linkedin.com/in/jatin-chhabra-2b0455289/  
+💻 GitHub: https://github.com/JatinChhabra22  
