@@ -1,126 +1,93 @@
-<h1 align="center">Hi 👋, I'm Jatin Chhabra</h1>
-<h3 align="center">Aspiring Data Analyst | Future Data Scientist | Turning Data into Business Insights</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Chhabra+%F0%9F%91%8B;Data+Analyst+%7C+Future+Data+Scientist;Turning+Data+into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Snowflake" />
+</p>
 
-<img src="https://i.redd.it/n8agw6z2smyb1.gif">
+<p align="center">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="800"/>
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jatinchhabra22&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchhabra22" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatinchhabra22&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 📊 Transitioned from Frontend Development to **Data Analytics & Data Science**
-- 🔍 Passionate about **analyzing data, finding insights & solving real-world business problems**
-- 📈 Strong focus on **end-to-end analytics projects (Python → SQL → BI)**
-- 🎯 Career Goal: **Data Scientist / Data Analyst / Data Engineer**
-- 👨‍💻 All my projects are available at:  
-  👉 **https://github.com/Jatinchhabra22**
+## 🚀 About Me  
+
+> *I don’t just analyze data — I turn raw numbers into insights that drive decisions.*
+
+- 📊 Aspiring **Data Analyst** | Future **Data Scientist**  
+- 🧠 Strong in **Python, SQL, BI & Analytics workflows**  
+- 📈 Love working on **real-world business datasets**  
+- 🎯 Goal: **Data Scientist / Data Engineer**
 
 ---
 
-### 🧠 What I’m Currently Working On  
-- 🔭 Building **real-world Data Analytics projects**
-- 🌱 Learning **Advanced SQL, Statistics & Machine Learning**
-- 🧪 Practicing **EDA, Feature Engineering & Business Storytelling**
-- ☁️ Exploring **Cloud Data & Warehousing (Snowflake)**
+## 🧠 Tech Stack  
 
----
-
-### 🛠️ Data Analytics & Data Science Skills  
-
-#### 📌 Programming & Querying  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- **SQL** (Joins, CTEs, Window Functions, Aggregations)
-
-#### 📊 Business Intelligence & Visualization  
-- **Power BI** (DAX, Data Modeling, Dashboards)  
-- **Tableau** (Interactive Dashboards & Storytelling)
-
-#### ☁️ Databases & Cloud  
-- **Snowflake**  
-- PostgreSQL / MySQL  
-
-#### 📈 Analytics Concepts  
-- Exploratory Data Analysis (EDA)  
-- KPI & Metrics Design  
-- Business Insights & Reporting  
-- Data Cleaning & Transformation  
-- Basic Statistics  
-
----
-
-### 📂 Featured Projects  
-- 🛒 **E-Commerce Sales & Operations Analytics**  
-- 🍔 **Swiggy Sales & Delivery Performance Analysis**  
-- 📊 End-to-End Projects with:
-  - Python notebooks  
-  - SQL queries  
-  - Power BI dashboards  
-  - Business insight reports  
-
-👉 *Check repositories for complete project folders & documentation*
-
----
-
-### 🤝 Open to Collaborate On  
-- Data Analytics Projects  
-- SQL & Dashboarding  
-- Real-world Business Case Studies  
-
----
-
-### 💬 Ask Me About  
-**Python | SQL | Power BI | Tableau | Data Analytics | Projects | Resume for DA roles**
-
----
-
-### 📫 Reach Me At  
-📧 **jatin.chhabra22jc@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatin-chhabra-2b0455289/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://twitter.com/jatinchhab42931" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/u/jatinchhabra22/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/>
-</p>
-
----
-
+### 🔹 Programming & Analysis  
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinchhabra22&show_icons=true&locale=en&layout=compact" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 </p>
 
+### 🔹 Databases & SQL  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinchhabra22&show_icons=true&locale=en" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="45"/>
 </p>
 
+### 🔹 BI & Visualization  
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchhabra22" />
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45"/>
 </p>
 
 ---
 
-⚡ **Fun Fact:** I enjoy transforming messy data into meaningful stories 📊
+## 🚀 Featured Projects  
+
+### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**  
+📌 End-to-end analytics covering **EDA, SQL, KPIs & dashboards**
+
+### 🍔 **Swiggy Sales & Performance Analytics**  
+📌 Business-focused insights with **interactive BI dashboards**
+
+✔️ Python Notebooks  
+✔️ SQL Scripts  
+✔️ Power BI Dashboards  
+✔️ Business Insights  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinchhabra22&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchhabra22&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchhabra22&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📫 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Chhabra-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:jatin.chhabra22jc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer"/>
+</p>
