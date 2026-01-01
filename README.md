@@ -18,7 +18,7 @@
 - 📊 **Data Analyst | Aspiring Data Scientist**
 - 🔁 Transitioned from **Frontend Development → Data Analytics**
 - 🧠 Strong in **Python, SQL, BI, Cloud & Analytics**
-- 🎯 Career Goal: **Data Scientist / Data Engineer**
+- 🎯 **Career Goal: Data Analyst / Data Scientist / Data Engineer**
 
 ---
 
@@ -73,8 +73,6 @@
 
 ---
 
-
----
 
 📧 **jatin.chhabra22jc@gmail.com**  
 🔗 https://www.linkedin.com/in/jatin-chhabra-2b0455289/
