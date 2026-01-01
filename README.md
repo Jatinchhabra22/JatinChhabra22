@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Aspiring+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+PostgreSQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Aspiring+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ### 🔹 Data Science & Analytics
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL, **PostgreSQL**)
+- **SQL(Joins, CTEs, Window Functions, Aggregations)** 
 - **Power BI** (DAX, Data Modeling, Dashboards)
 - **Advanced Excel** (Pivot Tables, Power Query, Lookups)
 - **Statistics** (Descriptive & Inferential)
