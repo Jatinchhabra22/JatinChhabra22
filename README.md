@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jatin+Chhabra+%F0%9F%91%8B;Data+Analyst+%7C+Future+Data+Scientist;Turning+Data+into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Snowflake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Future+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Tableau+|+Snowflake" />
 </p>
 
 <p align="center">
@@ -7,85 +7,99 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinchhabra22&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jatinchhabra22&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-> *I don’t just analyze data — I turn raw numbers into insights that drive decisions.*
+> I don’t just analyze data — I turn raw numbers into clear business decisions.
 
-- 📊 Aspiring **Data Analyst** | Future **Data Scientist**  
-- 🧠 Strong in **Python, SQL, BI & Analytics workflows**  
-- 📈 Love working on **real-world business datasets**  
-- 🎯 Goal: **Data Scientist / Data Engineer**
+- 📊 **Aspiring Data Analyst | Future Data Scientist**
+- 🔁 Transitioned from **Frontend Development → Data Analytics**
+- 🧠 Strong in **Python, SQL, BI & Analytics workflows**
+- 📈 Hands-on with **end-to-end data projects**
+- 🎯 Career Goal: **Data Scientist / Data Engineer**
+
+👨‍💻 GitHub → https://github.com/Jatinchhabra22  
 
 ---
 
-## 🧠 Tech Stack  
+## 🧠 Skills Snapshot 
 
-### 🔹 Programming & Analysis  
+### 🔹 Data & Analytics
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- **SQL** (Joins, CTEs, Window Functions, Aggregations)  
+- **Power BI** (DAX, Data Modeling, Dashboards)  
+- **Tableau** (Interactive Dashboards)  
+- **Snowflake**  
+- EDA • KPI Design • Business Insights • Data Cleaning • Statistics (Basics)
+
+### 🔹 Frontend (Previous Experience)
+- **HTML, CSS, JavaScript**
+- **React.js**
+- **Tailwind CSS**
+- Bootstrap
+
+> *Frontend background helps me build clean dashboards & tell better data stories.*
+
+---
+
+## 🛠️ Languages & Tools  
+
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-</p>
+  <!-- Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="42"/>
 
-
-### 🔹 Databases & SQL  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="45"/>
-</p>
-
-### 🔹 BI & Visualization  
-<p>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45"/>
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**  
-📌 End-to-end analytics covering **EDA, SQL, KPIs & dashboards**
+### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**
+- Revenue, orders & operational KPI analysis  
+- Python EDA + SQL queries + Power BI dashboards  
 
-### 🍔 **Swiggy Sales & Performance Analytics**  
-📌 Business-focused insights with **interactive BI dashboards**
+### 🍔 **Swiggy Sales & Performance Analytics**
+- City & restaurant-level insights  
+- Business-focused interactive dashboards  
 
-✔️ Python Notebooks  
-✔️ SQL Scripts  
-✔️ Power BI Dashboards  
-✔️ Business Insights  
+✔️ Clean datasets  
+✔️ Python notebooks  
+✔️ SQL scripts  
+✔️ BI dashboards  
+✔️ Business insight documents  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinchhabra22&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchhabra22&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinchhabra22&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=JatinChhabra22&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 📫 Let’s Connect  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jatin%20Chhabra-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:jatin.chhabra22jc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+📧 **jatin.chhabra22jc@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/jatin-chhabra-2b0455289/  
+💻 GitHub: https://github.com/Jatinchhabra22  
 
 ---
 
