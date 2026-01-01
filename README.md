@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Aspiring+Data+Scientist+|+Data+Analyst;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Jatin+Chhabra+👋;Data+Analyst+|+Aspiring+Data+Scientist;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
 </p>
 
 <p align="center">
@@ -14,22 +14,22 @@
 
 ## 🚀 About Me  
 
-> I use data + design thinking to turn raw numbers into clear business decisions.
+> I combine data analytics and frontend experience to turn raw data into clear business decisions.
 
-- 🧠 **Aspiring Data Scientist** with strong analytics foundation  
+- 📊 **Data Analyst | Aspiring Data Scientist**
 - 🔁 Transitioned from **Frontend Development → Data Analytics**
-- 📊 Hands-on with **Python, SQL, BI & Cloud**
-- 🎯 Goal: **Data Scientist / Data Engineer**
+- 🧠 Strong in **Python, SQL, BI, Cloud & Analytics**
+- 🎯 Career Goal: **Data Scientist / Data Engineer**
 
 ---
 
 ## 🧠 Skills Snapshot
 
 ### 🔹 Data Science & Analytics
-- **Python**, **SQL**
+- **Python, SQL**
 - **Power BI**
-- **Advanced Excel** (Pivot Tables, Power Query, Lookups)
-- **Statistics** (Descriptive stats, distributions, hypothesis basics)
+- **Advanced Excel**
+- **Statistics (Basics)**
 - **EDA & Business Metrics**
 - **Snowflake | AWS | Azure (Basics)**
 
@@ -62,20 +62,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🛒 **OrderFlow – E-Commerce Sales & Operations Analytics**
-- KPI-driven sales & operations insights  
-- Python + SQL + Power BI dashboards  
-
-### 🍔 **Swiggy Sales & Performance Analytics**
-- City & restaurant-level insights  
-- Business-focused dashboards  
 
 ---
 
@@ -86,10 +74,6 @@
 </p>
 
 ---
-
-## 📅 Contribution Heatmap  
-
-
 
 
 
