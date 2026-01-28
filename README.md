@@ -95,9 +95,8 @@
 
 ## 📊 GitHub Activity  
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JatinChhabra22&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JatinChhabra22&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
