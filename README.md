@@ -4,87 +4,37 @@
 <!--                              HERO BANNER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%">
 
 # Jatin Chhabra
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
-
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Jatin+Chhabra+%F0%9F%91%8B;Data+Science+%7C+AI+%7C+Machine+Learning+Engineer;Building+Intelligent+Systems+That+Solve+Real+Problems;Python+%7C+SQL+%7C+Deep+Learning+%7C+Generative+AI;Data+Engineering+%7C+LLMs+%7C+Computer+Vision;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Jatin+Chhabra+%F0%9F%91%8B;Data+Science+%7C+AI+%7C+Machine+Learning+Engineer;Building+Intelligent+Systems+That+Solve+Real+Problems;Python+%7C+SQL+%7C+Deep+Learning+%7C+Generative+AI;Data+Engineering+%7C+LLMs+%7C+Computer+Vision;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="700" alt="animated hello" />
+## 📫 Connect with Me
 
-<br><br>
-
-<a href="https://github.com/Jatinchhabra22">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="built with love"/>
-</a>
-<a href="https://github.com/Jatinchhabra22">
-  <img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="built with swag"/>
-</a>
-<a href="https://github.com/Jatinchhabra22">
-  <img src="https://forthebadge.com/images/badges/open-source.svg" width="130" alt="open source"/>
-</a>
-<a href="https://github.com/Jatinchhabra22">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" alt="made with markdown"/>
-</a>
-
-<br><br>
+<p align="center">
+  <a href="mailto:jatin.chhabra22jc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://jatin-chhabra-22.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=Jatinchhabra22&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<!-- Animated Social Icons -->
-<a href="https://github.com/Jatinchhabra22" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="45" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="45" alt="LinkedIn"/>
-</a>
-<a href="mailto:jatin.chhabra22jc@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45" alt="Email"/>
-</a>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700" alt="gradient line"/>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              TABLE OF CONTENTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📋 Table of Contents
-
-| # | Section | Description |
-|---|---------|-------------|
-| 1 | [About Me](#-about-me) | Who I am & what I do |
-| 2 | [Currently Working On](#-currently-working-on) | Active role & focus areas |
-| 3 | [Education](#-education) | Academic background |
-| 4 | [Experience](#-professional-experience) | Work history & achievements |
-| 5 | [Tech Stack](#-tech-stack) | Skills & technologies |
-| 6 | [Featured Projects](#-featured-projects) | Top portfolio projects |
-| 7 | [All Projects](#-all-projects) | Complete project list |
-| 8 | [Certifications](#-certifications) | Courses & credentials |
-| 9 | [GitHub Stats](#-github-stats) | Activity & contributions |
-| 10 | [Interests](#-interests--focus-areas) | What excites me |
-| 11 | [Connect](#-lets-connect) | Get in touch |
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="fading line"/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              ABOUT ME                                       -->
@@ -93,14 +43,10 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="coding vibe"/>
-</div>
-
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="60%">
 <br>
 
 > **"Building intelligent systems that solve real-world problems — one pipeline, one model, one insight at a time."**
-
-<br>
 
 Hi, I'm **Jatin Chhabra** — a **Data Science, Artificial Intelligence & Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems.
 
@@ -109,27 +55,27 @@ I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br>
 <b>Machine Learning</b>
 </td>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
 <b>Deep Learning</b>
 </td>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="60"/><br>
 <b>Data Engineering</b>
 </td>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
 <b>Generative AI</b>
 </td>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
 <b>LLMs & NLP</b>
 </td>
 <td align="center" width="150">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
 <b>Computer Vision</b>
 </td>
 </tr>
@@ -139,22 +85,18 @@ I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in
 
 ### 🎯 Quick Facts
 
-| | |
-|---|---|
-| 🔭 **Currently** | Software Engineer Intern – Data Engineering @ **mFilterIt** |
-| 🎓 **Education** | B.Tech CSE (Data Science) — CGPA **9.1/10** |
-| 💼 **Experience** | Data Engineering • Business Analytics • Data Analysis • Frontend |
-| 🛠️ **Core Stack** | Python • SQL • Power BI • FastAPI • ClickHouse • AWS |
-| 🧠 **Specialization** | ETL Pipelines • ML/DL • NLP • LLMs • RAG • Agentic AI |
-| 🌱 **Learning** | MLOps • Cloud • Edge AI • AI Automation |
-| 💬 **Ask me about** | Data Pipelines • ML Models • Power BI Dashboards • AI Systems |
-| 📫 **Reach me** | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com) |
+|                       |                                                                   |
+| --------------------- | ----------------------------------------------------------------- |
+| 🔭 **Currently**      | Software Engineer Intern – Data Engineering @ **mFilterIt**       |
+| 🎓 **Education**      | B.Tech CSE (Data Science) — CGPA **9.1/10**                       |
+| 💼 **Experience**     | Data Engineering • Business Analytics • Data Analysis • Frontend  |
+| 🛠️ **Core Stack**     | Python • SQL • Power BI • FastAPI • ClickHouse • AWS              |
+| 🧠 **Specialization** | ETL Pipelines • ML/DL • NLP • LLMs • RAG • Agentic AI             |
+| 🌱 **Learning**       | MLOps • Cloud • Edge AI • AI Automation                           |
+| 💬 **Ask me about**   | Data Pipelines • ML Models • Power BI Dashboards • AI Systems     |
+| 📫 **Reach me**       | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com) |
 
 <br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="450" alt="mind sphere"/>
-</div>
 
 ---
 
@@ -170,20 +112,24 @@ I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in
 
 <br>
 
+<div align="left">
+
 ```yaml
-Role:        Software Engineer Intern – Data Engineering
-Company:     mFilterIt Pvt. Ltd.
-Location:    On-Site
-Period:      June 2026 – Present
-Category:    Data Engineering
+Role: Software Engineer Intern – Data Engineering
+Company: mFilterIt Pvt. Ltd.
+Location: On-Site
+Period: June 2026 – Present
+Category: Data Engineering
 Focus:
   - Scalable data pipelines (Python + SQL)
   - ETL workflows & data quality automation
   - MySQL → ClickHouse migration
   - API & production pipeline validation (1M+ records)
   - Supporting AI/ML applications & analytics infrastructure
-Tech Stack:  Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
+Tech Stack: Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 ```
+
+</div>
 
 <br>
 
@@ -228,12 +174,6 @@ Tech Stack:  Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 
 ## 🎓 Education
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="fire"/>
-</div>
-
-<br>
-
 <table>
 <tr>
 <td align="center" width="120">
@@ -242,12 +182,13 @@ Tech Stack:  Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 <td>
 
 ### 🏛️ Bachelor of Technology (B.Tech)
+
 **Computer Science & Engineering — Data Science**
 
-| Field | Details |
-|-------|---------|
-| 📊 **CGPA** | **9.1 / 10** |
-| 📌 **Status** | Currently Pursuing |
+| Field              | Details                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------- |
+| 📊 **CGPA**        | **9.1 / 10**                                                                             |
+| 📌 **Status**      | Currently Pursuing                                                                       |
 | 🔬 **Focus Areas** | Machine Learning • Deep Learning • Data Engineering • AI • Statistics • Database Systems |
 
 </td>
@@ -285,6 +226,7 @@ Tech Stack:  Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 Building scalable data engineering solutions, production data pipelines, ETL workflows and high-performance analytical systems while supporting AI/ML applications and modern data infrastructure.
 
 **Key Responsibilities:**
+
 - Built **Python & SQL data pipelines** to ingest, clean, transform and validate large-scale datasets
 - Built **automated ETL** and data processing solutions to improve data quality & streamline workflows
 - Contributed to **MySQL → ClickHouse migration**, optimizing query performance for high-volume workloads
@@ -317,6 +259,7 @@ Building scalable data engineering solutions, production data pipelines, ETL wor
 Analyzed and visualized business data for international clients using SQL, Python, Excel and Power BI to generate insights and track key performance metrics.
 
 **Key Responsibilities:**
+
 - Analyzed & visualized business data using **SQL, Python, Excel & Power BI** for international clients
 - Collaborated with cross-functional teams to translate business requirements into **dashboards & insights**
 - Performed **data cleaning, validation & EDA** to improve reporting accuracy
@@ -343,6 +286,7 @@ Analyzed and visualized business data for international clients using SQL, Pytho
 Performed exploratory data analysis, developed sales tracking dashboards and generated business insights to support internal reporting.
 
 **Key Responsibilities:**
+
 - Performed **exploratory data analysis** to identify trends impacting business performance
 - Developed **sales tracking dashboards** and performance reports for internal teams
 - Cleaned and analyzed datasets using **Excel & SQL** to generate meaningful business insights
@@ -374,6 +318,7 @@ Performed exploratory data analysis, developed sales tracking dashboards and gen
 Worked on building and updating responsive webpages as part of the development team, implementing UI changes based on design feedback.
 
 **Key Responsibilities:**
+
 - Built and updated **responsive webpages** as part of the development team
 - Implemented **UI changes and fixes** based on design feedback and requirements
 
@@ -407,21 +352,22 @@ Worked on building and updating responsive webpages as part of the development t
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="70"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/>
 
 </div>
 
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, SQL |
+| Category      | Technologies                                   |
+| ------------- | ---------------------------------------------- |
+| **Languages** | Python, SQL                                    |
 | **Databases** | MySQL, PostgreSQL, ClickHouse, SQLite, MongoDB |
-| **Libraries** | Scikit-learn, Pandas, NumPy |
+| **Libraries** | Scikit-learn, Pandas, NumPy                    |
 
 <br>
 
@@ -446,19 +392,19 @@ Model Evaluation • SMOTE • Statistical Analysis
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
 <b>TensorFlow</b>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
 <b>PyTorch</b>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="60"/><br>
 <b>Keras</b>
 </td>
 <td align="center" width="25%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60"/><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
 <b>LLMs</b>
 </td>
 </tr>
@@ -466,11 +412,11 @@ Model Evaluation • SMOTE • Statistical Analysis
 
 <br>
 
-| Area | Skills |
-|------|--------|
-| **Deep Learning** | Neural Networks, TensorFlow, Keras, PyTorch |
-| **NLP** | NLTK, Text Preprocessing, Tokenization, Vectorization |
-| **Gen AI** | Prompt Engineering, LLMs, RAG, Agentic AI |
+| Area              | Skills                                                |
+| ----------------- | ----------------------------------------------------- |
+| **Deep Learning** | Neural Networks, TensorFlow, Keras, PyTorch           |
+| **NLP**           | NLTK, Text Preprocessing, Tokenization, Vectorization |
+| **Gen AI**        | Prompt Engineering, LLMs, RAG, Agentic AI             |
 
 <br>
 
@@ -488,12 +434,12 @@ Model Evaluation • SMOTE • Statistical Analysis
 
 <br>
 
-| Tool | Use Case |
-|------|----------|
-| **Power BI** | DAX, Data Modeling, Interactive Dashboards, KPI Reporting |
-| **Tableau** | Data Visualization & Storytelling |
-| **Matplotlib / Seaborn** | Statistical & Exploratory Visualizations |
-| **Plotly.js** | Interactive Charts & Geospatial Visualizations |
+| Tool                     | Use Case                                                  |
+| ------------------------ | --------------------------------------------------------- |
+| **Power BI**             | DAX, Data Modeling, Interactive Dashboards, KPI Reporting |
+| **Tableau**              | Data Visualization & Storytelling                         |
+| **Matplotlib / Seaborn** | Statistical & Exploratory Visualizations                  |
+| **Plotly.js**            | Interactive Charts & Geospatial Visualizations            |
 
 <br>
 
@@ -501,24 +447,27 @@ Model Evaluation • SMOTE • Statistical Analysis
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="60"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="60"/>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/>
 
 </div>
 
 <br>
 
-| Category | Tools |
-|----------|-------|
+| Category           | Tools                                                |
+| ------------------ | ---------------------------------------------------- |
 | **Backend & APIs** | FastAPI, REST APIs, Postman, Node.js, Express, Flask |
-| **DevOps & Cloud** | Git, Docker, AWS, Microsoft Azure, Snowflake |
-| **Frontend** | React, React Native, JavaScript, CSS, Vite |
-| **Database Tools** | DBeaver, Advanced Excel |
-| **Other** | Jupyter Notebook, Streamlit, Leaflet |
+| **DevOps & Cloud** | Git, Docker, AWS, Microsoft Azure, Snowflake         |
+| **Frontend**       | React, React Native, JavaScript, CSS, Vite           |
+| **Database Tools** | DBeaver, Advanced Excel                              |
+| **Other**          | Jupyter Notebook, Streamlit, Leaflet                 |
 
 <br>
 
@@ -567,10 +516,10 @@ skills = {
 
 An advanced AI system for pharmaceutical decision-making combining **predictive modeling**, **NLP-based drug information extraction**, and **demand forecasting**. Utilized classical ML and deep learning to optimize supply chains and reduce stockout risks.
 
-| | |
-|---|---|
-| 🔴 **Problem** | Manual, error-prone pharmaceutical supply chain decisions causing stockouts and waste |
-| 🟢 **Solution** | ML ensemble + NLP pipeline automating demand forecasting and decision support |
+|                 |                                                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem**  | Manual, error-prone pharmaceutical supply chain decisions causing stockouts and waste                           |
+| 🟢 **Solution** | ML ensemble + NLP pipeline automating demand forecasting and decision support                                   |
 | ✨ **Features** | Demand forecasting • NLP drug extraction • Supply chain optimization • Deep learning pipelines • Explainable AI |
 
 **Tech:** `Machine Learning` `Deep Learning` `NLP` `Python` `Scikit-learn`
@@ -610,10 +559,10 @@ An advanced AI system for pharmaceutical decision-making combining **predictive 
 
 A comprehensive **water quality monitoring and health management system** designed for rural communities. Combines IoT sensors, machine learning, and real-time analytics for early warning systems.
 
-| | |
-|---|---|
-| 🔴 **Problem** | Lack of real-time water quality monitoring and early warning in rural communities |
-| 🟢 **Solution** | IoT sensor network + ML-powered health risk prediction with multi-channel alerts |
+|                 |                                                                                                                             |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem**  | Lack of real-time water quality monitoring and early warning in rural communities                                           |
+| 🟢 **Solution** | IoT sensor network + ML-powered health risk prediction with multi-channel alerts                                            |
 | ✨ **Features** | Real-time monitoring • AI health risk prediction • Mobile app • Admin dashboard • Multi-channel alerts • Geographic mapping |
 
 **Tech:** `React` `React Native` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Leaflet`
@@ -634,10 +583,10 @@ A comprehensive **water quality monitoring and health management system** design
 
 Analyzed **100K+ records** to uncover hidden revenue drivers and operational bottlenecks. Built automated ETL pipelines from raw transactional data into a clean PostgreSQL warehouse, then visualized KPIs through interactive Power BI dashboards.
 
-| | |
-|---|---|
-| 🔴 **Problem** | Fragmented sales data across multiple sources with no unified analytics |
-| 🟢 **Solution** | End-to-end pipeline: raw data → cleaned warehouse → interactive dashboards |
+|                 |                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem**  | Fragmented sales data across multiple sources with no unified analytics                                               |
+| 🟢 **Solution** | End-to-end pipeline: raw data → cleaned warehouse → interactive dashboards                                            |
 | ✨ **Features** | 100K+ records processed • Automated ETL • Interactive Power BI dashboards • Revenue trend analysis • Operational KPIs |
 
 **Tech:** `Python` `SQL` `PostgreSQL` `Power BI` `Excel`
@@ -676,10 +625,10 @@ Analyzed **100K+ records** to uncover hidden revenue drivers and operational bot
 
 Deep-dived into Swiggy's delivery ecosystem to uncover **demand patterns**, **top-performing restaurants**, and **city-level growth opportunities**. Combined SQL querying with Power BI storytelling for actionable business expansion insights.
 
-| | |
-|---|---|
-| 🔴 **Problem** | No visibility into which cities, cuisines, or restaurants drive the most value |
-| 🟢 **Solution** | SQL-powered analytics layer surfacing demand patterns and growth levers |
+|                 |                                                                                                                                    |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem**  | No visibility into which cities, cuisines, or restaurants drive the most value                                                     |
+| 🟢 **Solution** | SQL-powered analytics layer surfacing demand patterns and growth levers                                                            |
 | ✨ **Features** | City-level demand mapping • Restaurant performance ranking • Cuisine trend analysis • SQL optimization • Interactive BI dashboards |
 
 **Tech:** `Python` `SQL` `PostgreSQL` `Power BI`
@@ -708,12 +657,12 @@ Deep-dived into Swiggy's delivery ecosystem to uncover **demand patterns**, **to
 
 <br>
 
-| # | Project | Description | Tech Stack | Link |
-|---|---------|-------------|------------|------|
-| 5 | **Smart Attendance & Curriculum App** | AI-powered face recognition attendance, ML attendance prediction & NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗 Repo](https://github.com/Jatinchhabra22/Smart-Attendance-Cirrculam-App) |
-| 6 | **OTT Platform Analysis** | Cross-platform EDA of Netflix, Prime & Disney+ content trends | Python, Pandas, Matplotlib, Seaborn | [🔗 Repo](https://github.com/Jatinchhabra22/OTT-Analysis-) |
-| 7 | **NovaStat** | Full-stack govt survey data processing with bias detection & MoSPI reports | React, Vite, FastAPI, Pandas, Plotly.js | [🔗 Repo](https://github.com/Jatinchhabra22/NovaStat) |
-| 8 | **UPI Transaction Analysis** | EDA of 15,000+ UPI transactions — patterns, failures & trends | Python, Pandas, Matplotlib, Seaborn | [🔗 Repo](https://github.com/Jatinchhabra22/UPI-Transaction-Analysis-) |
+| #   | Project                               | Description                                                                                 | Tech Stack                                 | Link                                                                        |
+| --- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
+| 5   | **Smart Attendance & Curriculum App** | AI-powered face recognition attendance, ML attendance prediction & NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗 Repo](https://github.com/Jatinchhabra22/Smart-Attendance-Cirrculam-App) |
+| 6   | **OTT Platform Analysis**             | Cross-platform EDA of Netflix, Prime & Disney+ content trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/OTT-Analysis-)                  |
+| 7   | **NovaStat**                          | Full-stack govt survey data processing with bias detection & MoSPI reports                  | React, Vite, FastAPI, Pandas, Plotly.js    | [🔗 Repo](https://github.com/Jatinchhabra22/NovaStat)                       |
+| 8   | **UPI Transaction Analysis**          | EDA of 15,000+ UPI transactions — patterns, failures & trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/UPI-Transaction-Analysis-)      |
 
 <br>
 
@@ -789,12 +738,12 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 <br>
 
-| # | Certification | Platform |
-|---|--------------|----------|
-| 1 | Complete Data Science, Machine Learning, DL & NLP Bootcamp | 🟣 Udemy |
-| 2 | Complete Data Analyst Bootcamp | 🟣 Udemy |
-| 3 | Complete Generative AI Course With Langchain and Huggingface | 🟣 Udemy |
-| 4 | The Ultimate Job-Ready Data Science Course | 🔴 Code with Harry |
+| #   | Certification                                                | Platform           |
+| --- | ------------------------------------------------------------ | ------------------ |
+| 1   | Complete Data Science, Machine Learning, DL & NLP Bootcamp   | 🟣 Udemy           |
+| 2   | Complete Data Analyst Bootcamp                               | 🟣 Udemy           |
+| 3   | Complete Generative AI Course With Langchain and Huggingface | 🟣 Udemy           |
+| 4   | The Ultimate Job-Ready Data Science Course                   | 🔴 Code with Harry |
 
 <br>
 
@@ -927,7 +876,7 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 <br>
 
-> *"It's not a bug — it's a feature!"* 😄
+> _"It's not a bug — it's a feature!"_ 😄
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="250" alt="not a bug"/>
@@ -961,13 +910,13 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 <div align="center">
 
-| Fact | GIF |
-|------|-----|
-| Every time I do a git pull and there's a conflict | <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="120"/> |
-| How I feel when my code doesn't work | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="120"/> |
-| Fixing a bug in production | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="120"/> |
-| Monday arrives again | <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="120"/> |
-| Pro level debugging | <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="120"/> |
+| Fact                                              | GIF                                                                                                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Every time I do a git pull and there's a conflict | <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="120"/>       |
+| How I feel when my code doesn't work              | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="120"/> |
+| Fixing a bug in production                        | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="120"/> |
+| Monday arrives again                              | <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="120"/>       |
+| Pro level debugging                               | <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="120"/>       |
 
 </div>
 
@@ -1007,11 +956,11 @@ I'm always open to collaborating on **AI/ML projects**, **data engineering chall
 
 <br><br>
 
-| Platform | Link |
-|----------|------|
-| 📧 **Email** | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com) |
+| Platform        | Link                                                                  |
+| --------------- | --------------------------------------------------------------------- |
+| 📧 **Email**    | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com)     |
 | 💼 **LinkedIn** | [jatin-chhabra](https://www.linkedin.com/in/jatin-chhabra-2b0455289/) |
-| 💻 **GitHub** | [@Jatinchhabra22](https://github.com/Jatinchhabra22) |
+| 💻 **GitHub**   | [@Jatinchhabra22](https://github.com/Jatinchhabra22)                  |
 
 <br>
 
