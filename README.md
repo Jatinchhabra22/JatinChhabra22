@@ -177,7 +177,7 @@ Tech Stack: Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/216122986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="80" alt="achievement"/>
+<img src="https://user-images.githubusercontent.com/74038190/212259430-ff916193-4e93-4d05-a1a0-b50254048c55.png" width="200" />
 </td>
 <td>
 
