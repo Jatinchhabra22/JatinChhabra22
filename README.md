@@ -768,13 +768,6 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 <img src="https://github-readme-stats.vercel.app/api?username=Jatinchhabra22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinchhabra22&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatinchhabra22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jatinchhabra22&theme=tokyonight&no-frame=true&column=4" width="700" alt="GitHub Trophies"/>
 
 <br><br>
 
