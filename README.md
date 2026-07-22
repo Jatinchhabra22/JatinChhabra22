@@ -847,42 +847,7 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           WORK PHILOSOPHY                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 💡 Work Philosophy
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="200"/><br>
-<b>Code in Peace</b>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="200"/><br>
-<b>Work with Coffee</b>
-</td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="200"/><br>
-<b>Stay Consistent</b>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-> _"It's not a bug — it's a feature!"_ 😄
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="250" alt="not a bug"/>
-</div>
-
-<br>
 
 ### 🔄 My Development Workflow
 
@@ -902,31 +867,6 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           RANDOM DEV FACTS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎲 Random Dev Facts
-
-<div align="center">
-
-| Fact                                              | GIF                                                                                                                                  |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Every time I do a git pull and there's a conflict | <img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="120"/>       |
-| How I feel when my code doesn't work              | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="120"/> |
-| Fixing a bug in production                        | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4577b4e3-eb20-42ea-8088-c745981f3c82" width="120"/> |
-| Monday arrives again                              | <img src="https://user-images.githubusercontent.com/74038190/218265809-298cf362-076e-42fe-a107-37d98bd4b965.gif" width="120"/>       |
-| Pro level debugging                               | <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="120"/>       |
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300" alt="coffee while working"/>
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                           LET'S CONNECT                                     -->
@@ -944,15 +884,6 @@ I'm always open to collaborating on **AI/ML projects**, **data engineering chall
 
 <br>
 
-<a href="mailto:jatin.chhabra22jc@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="50" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Jatinchhabra22" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="50" alt="GitHub"/>
-</a>
 
 <br><br>
 
