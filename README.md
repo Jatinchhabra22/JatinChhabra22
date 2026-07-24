@@ -67,11 +67,12 @@ I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in
 <b>Data Engineering</b>
 </td>
 <td align="center" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
+  
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
 <b>Generative AI</b>
 </td>
 <td align="center" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
 <b>LLMs & NLP</b>
 </td>
 <td align="center" width="150">
@@ -342,9 +343,7 @@ Worked on building and updating responsive webpages as part of the development t
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="tech stack floating"/>
-</div>
+
 
 <br>
 
@@ -404,7 +403,7 @@ Model Evaluation • SMOTE • Statistical Analysis
 <b>Keras</b>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
 <b>LLMs</b>
 </td>
 </tr>
