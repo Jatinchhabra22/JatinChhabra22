@@ -52,30 +52,32 @@ Hi, I'm **Jatin Chhabra** — a **Data Science, Artificial Intelligence & Machin
 
 I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in analytics, machine learning, and production data engineering. I specialize in **end-to-end AI solutions** combining:
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br>
 <b>Machine Learning</b>
 </td>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
 <b>Deep Learning</b>
 </td>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="60"/><br>
 <b>Data Engineering</b>
 </td>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
   
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
 <b>Generative AI</b>
 </td>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
 <b>LLMs & NLP</b>
 </td>
-<td align="center" width="150">
+<td align="center" valign="middle" width="150">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
 <b>Computer Vision</b>
 </td>
@@ -220,7 +222,7 @@ Tech Stack: Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
 
 <table>
 <tr>
-<td width="70%">
+<td width="70%" valign="top">
 
 **🏢 mFilterIt Pvt. Ltd.** | 📍 On-Site | 📅 **June 2026 – Present**
 
@@ -236,7 +238,7 @@ Building scalable data engineering solutions, production data pipelines, ETL wor
 **Tech Stack:** `Python` `SQL` `ClickHouse` `MySQL` `FastAPI` `Postman` `AWS` `ETL`
 
 </td>
-<td width="30%" align="center">
+<td width="30%" align="center" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="180" alt="development time"/>
 </td>
 </tr>
@@ -250,10 +252,10 @@ Building scalable data engineering solutions, production data pipelines, ETL wor
 
 <table>
 <tr>
-<td width="30%" align="center">
+<td width="30%" align="center" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="180" alt="3d statistics"/>
 </td>
-<td width="70%">
+<td width="70%" valign="top">
 
 **🏢 mFilterIt Pvt. Ltd.** | 📍 On-Site | 📅 **January 2026 – June 2026**
 
@@ -280,7 +282,7 @@ Analyzed and visualized business data for international clients using SQL, Pytho
 
 <table>
 <tr>
-<td width="70%">
+<td width="70%" valign="top">
 
 **🏢 Finn FinTech** | 📍 Hybrid | 📅 **September 2025 – November 2025**
 
@@ -295,7 +297,7 @@ Performed exploratory data analysis, developed sales tracking dashboards and gen
 **Tech Stack:** `Excel` `SQL` `Data Analysis` `Dashboarding` `Reporting`
 
 </td>
-<td width="30%" align="center">
+<td width="30%" align="center" valign="top">
 <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="180" alt="automatic typing"/>
 </td>
 </tr>
@@ -309,10 +311,10 @@ Performed exploratory data analysis, developed sales tracking dashboards and gen
 
 <table>
 <tr>
-<td width="30%" align="center">
+<td width="30%" align="center" valign="top">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="180" alt="web dev"/>
 </td>
-<td width="70%">
+<td width="70%" valign="top">
 
 **🏢 Sage Media** | 📍 On-Site | 📅 **June 2025 – July 2025**
 
@@ -507,11 +509,29 @@ skills = {
 
 <br>
 
-### 🏥 1. AI Pharma Decision System
+### 🤖 1. InsightAI — AI Data Intelligence Platform
+
+
+An end-to-end **AI-powered data intelligence platform** that unifies dataset analysis, automated machine learning, forecasting, explainable AI, RAG-powered Copilot, and AI-generated reporting into a single collaborative workspace.
+
+|                 |                                                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem** | Fragmented data workflows require separate tools for data preparation, analytics, ML, forecasting, and reporting |
+| 🟢 **Solution** | Unified AI workspace transforming raw datasets into insights, ML models, forecasts, predictions, and decision-ready reports |
+| ✨ **Features** | Data profiling • SQL & NL analytics • Automated ML • Model registry • Predictions • SHAP • Forecasting • RAG Copilot • AI insights • PDF reports • RBAC • Workspace collaboration |
+| 🔐 **Security** | JWT authentication • RBAC • Workspace isolation • IDOR protection • Rate limiting • SQL injection protection |
+| ⚡ **Testing** | 390+ backend tests • Property-based testing • Security & regression testing |
+
+**Tech:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Scikit-learn` `XGBoost` `Prophet` `Pandas` `DuckDB` `ChromaDB` `MLflow` `Ollama` `RAG` `SHAP` `TanStack Query`
+
+**Pipeline:** `Data → Profile → Clean → Query → Analyze → Train → Explain → Predict/Forecast → Copilot → Report`
+<br>
+
+### 🏥 2. AI Pharma Decision System
 
 <table>
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 An advanced AI system for pharmaceutical decision-making combining **predictive modeling**, **NLP-based drug information extraction**, and **demand forecasting**. Utilized classical ML and deep learning to optimize supply chains and reduce stockout risks.
 
@@ -524,7 +544,7 @@ An advanced AI system for pharmaceutical decision-making combining **predictive 
 **Tech:** `Machine Learning` `Deep Learning` `NLP` `Python` `Scikit-learn`
 
 </td>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180" alt="mr robot"/>
 
@@ -539,13 +559,32 @@ An advanced AI system for pharmaceutical decision-making combining **predictive 
 
 <br>
 
+### 🩺 3. DocBuddy — Medical AI Symptom Analysis & LLM Fine-Tuning
+
+An end-to-end **medical AI platform** that combines classical machine learning and generative AI to analyze patient symptoms, predict diseases, and explore conversational medical assistance through a fine-tuned LLaMA-3 model.
+
+|                     |                                                                                                                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Problem**      | Symptom-based disease prediction typically relies on either rigid ML classifiers or general-purpose LLMs, lacking a unified approach for fast prediction and conversational analysis                                |
+| 🟢 **Solution**     | Dual-model medical AI system combining a lightweight LightGBM classifier with a QLoRA fine-tuned LLaMA-3 8B for structured prediction and conversational responses                                                  |
+| ✨ **Features**      | Symptom-based disease prediction • 773 diseases • 377 symptom features • Confidence scoring • LLaMA-3 fine-tuning • QLoRA • Model evaluation • SHAP-ready ML pipeline • FastAPI • Streamlit • Interactive inference |
+| 🤖 **ML Pipeline**  | 246K+ medical records → preprocessing → LightGBM classification → disease prediction → confidence scores                                                                                                            |
+| 🧠 **LLM Pipeline** | Medical dataset → instruction formatting → train/validation/test split → LLaMA-3 8B → QLoRA fine-tuning → evaluation → inference                                                                                    |
+| 🔐 **Safety**       | Medical disclaimer • Uncertainty-aware responses • No medication prescriptions • No definitive diagnosis claims                                                                                                     |
+| ⚡ **Deployment**    | Streamlit symptom checker • FastAPI REST API • Interactive CLI inference                                                                                                                                            |
+
+**Tech:** `Python` `LightGBM` `Scikit-learn` `Pandas` `NumPy` `LLaMA-3 8B` `QLoRA` `LoRA` `PEFT` `TRL` `BitsAndBytes` `HuggingFace` `FastAPI` `Streamlit` `Joblib`
+
+**Pipeline:** `Symptoms → Preprocess → Classify → Explain → Predict`
+**LLM Pipeline:** `Dataset → Instruction Format → QLoRA Fine-Tuning → Evaluate → Inference → API`
+<br>
 ---
 
-### 💧 2. NeerSetu — Water Quality Monitoring System
+### 💧 4. NeerSetu — Water Quality Monitoring System
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="lets do it"/>
 
@@ -554,7 +593,7 @@ An advanced AI system for pharmaceutical decision-making combining **predictive 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/NeerSetu)
 
 </td>
-<td width="65%">
+<td width="65%" valign="top">
 
 A comprehensive **water quality monitoring and health management system** designed for rural communities. Combines IoT sensors, machine learning, and real-time analytics for early warning systems.
 
@@ -574,11 +613,11 @@ A comprehensive **water quality monitoring and health management system** design
 
 ---
 
-### 🛒 3. OrderFlow — E-Commerce Sales & Operations Analytics
+### 🛒 5. OrderFlow — E-Commerce Sales & Operations Analytics
 
 <table>
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
 Analyzed **100K+ records** to uncover hidden revenue drivers and operational bottlenecks. Built automated ETL pipelines from raw transactional data into a clean PostgreSQL warehouse, then visualized KPIs through interactive Power BI dashboards.
 
@@ -591,7 +630,7 @@ Analyzed **100K+ records** to uncover hidden revenue drivers and operational bot
 **Tech:** `Python` `SQL` `PostgreSQL` `Power BI` `Excel`
 
 </td>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="180" alt="multi screen"/>
 
@@ -607,11 +646,11 @@ Analyzed **100K+ records** to uncover hidden revenue drivers and operational bot
 
 ---
 
-### 🍔 4. Swiggy Analytics — Food Delivery Insights
+### 🍔 6. Swiggy Analytics — Food Delivery Insights
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="top">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="200" alt="designer vs developer"/>
 
@@ -620,7 +659,7 @@ Analyzed **100K+ records** to uncover hidden revenue drivers and operational bot
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/Swiggy-Food-Delivery-Analytics)
 
 </td>
-<td width="65%">
+<td width="65%" valign="top">
 
 Deep-dived into Swiggy's delivery ecosystem to uncover **demand patterns**, **top-performing restaurants**, and **city-level growth opportunities**. Combined SQL querying with Power BI storytelling for actionable business expansion insights.
 
@@ -658,10 +697,10 @@ Deep-dived into Swiggy's delivery ecosystem to uncover **demand patterns**, **to
 
 | #   | Project                               | Description                                                                                 | Tech Stack                                 | Link                                                                        |
 | --- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
-| 5   | **Smart Attendance & Curriculum App** | AI-powered face recognition attendance, ML attendance prediction & NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗 Repo](https://github.com/Jatinchhabra22/Smart-Attendance-Cirrculam-App) |
-| 6   | **OTT Platform Analysis**             | Cross-platform EDA of Netflix, Prime & Disney+ content trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/OTT-Analysis-)                  |
-| 7   | **NovaStat**                          | Full-stack govt survey data processing with bias detection & MoSPI reports                  | React, Vite, FastAPI, Pandas, Plotly.js    | [🔗 Repo](https://github.com/Jatinchhabra22/NovaStat)                       |
-| 8   | **UPI Transaction Analysis**          | EDA of 15,000+ UPI transactions — patterns, failures & trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/UPI-Transaction-Analysis-)      |
+| 7   | **Smart Attendance & Curriculum App** | AI-powered face recognition attendance, ML attendance prediction & NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗 Repo](https://github.com/Jatinchhabra22/Smart-Attendance-Cirrculam-App) |
+| 8   | **OTT Platform Analysis**             | Cross-platform EDA of Netflix, Prime & Disney+ content trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/OTT-Analysis-)                  |
+| 9   | **NovaStat**                          | Full-stack govt survey data processing with bias detection & MoSPI reports                  | React, Vite, FastAPI, Pandas, Plotly.js    | [🔗 Repo](https://github.com/Jatinchhabra22/NovaStat)                       |
+| 10   | **UPI Transaction Analysis**          | EDA of 15,000+ UPI transactions — patterns, failures & trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/UPI-Transaction-Analysis-)      |
 
 <br>
 
@@ -764,13 +803,12 @@ An in-depth exploratory data analysis of **15,000+ UPI transactions** to underst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jatinchhabra22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinchhabra22&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Jatinchhabra22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinchhabra22&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinchhabra22&theme=tokyo-night&hide_border=true&area=true" width="700" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinchhabra22&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
