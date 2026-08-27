@@ -1,980 +1,322 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              HERO BANNER                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="70%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%">
-
-# Jatin Chhabra
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+LLMs+%7C+Generative+AI;Building+Intelligent+Systems+That+Solve+Real+Problems+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Jatin+Chhabra+%F0%9F%91%8B;Data+Science+%7C+AI+%7C+Machine+Learning+Engineer;Building+Intelligent+Systems+That+Solve+Real+Problems;Python+%7C+SQL+%7C+Deep+Learning+%7C+Generative+AI;Data+Engineering+%7C+LLMs+%7C+Computer+Vision;Turning+Data+Into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatin.chhabra22jc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-chhabra-2b0455289/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jatin-chhabra-22.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JatinChhabra22)
 
-<br><br>
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:jatin.chhabra22jc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jatin-chhabra-2b0455289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://jatin-chhabra-22.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Jatinchhabra22&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700" alt="gradient line"/>
+<img src="https://komarev.com/ghpvc/?username=JatinChhabra22&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              ABOUT ME                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
 ## 👨‍💻 About Me
 
-<div align="center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="60%">
-<br>
+Data Science, AI & Data Engineering enthusiast with hands-on experience in analytics, machine learning, and production data engineering. I specialize in **end-to-end AI solutions** — from raw data ingestion to intelligent, production-ready systems.
 
-> **"Building intelligent systems that solve real-world problems — one pipeline, one model, one insight at a time."**
+> *"Building intelligent systems that solve real-world problems — one pipeline, one model, one insight at a time."*
 
-Hi, I'm **Jatin Chhabra** — a **Data Science, Artificial Intelligence & Machine Learning Engineer** passionate about building intelligent systems that solve real-world problems.
-
-I'm a Data Science, AI & Data Engineering enthusiast with hands-on experience in analytics, machine learning, and production data engineering. I specialize in **end-to-end AI solutions** combining:
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="middle" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br>
-<b>Machine Learning</b>
-</td>
-<td align="center" valign="middle" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
-<b>Deep Learning</b>
-</td>
-<td align="center" valign="middle" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="60"/><br>
-<b>Data Engineering</b>
-</td>
-<td align="center" valign="middle" width="150">
-  
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
-<b>Generative AI</b>
-</td>
-<td align="center" valign="middle" width="150">
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
-<b>LLMs & NLP</b>
-</td>
-<td align="center" valign="middle" width="150">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
-<b>Computer Vision</b>
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🎯 Quick Facts
-
-|                       |                                                                   |
-| --------------------- | ----------------------------------------------------------------- |
-| 🔭 **Currently**      | Software Engineer Intern – Data Engineering @ **mFilterIt**       |
-| 🎓 **Education**      | B.Tech CSE (Data Science) — CGPA **9.1/10**                       |
-| 💼 **Experience**     | Data Engineering • Business Analytics • Data Analysis • Frontend  |
-| 🛠️ **Core Stack**     | Python • SQL • Power BI • FastAPI • ClickHouse • AWS              |
-| 🧠 **Specialization** | ETL Pipelines • ML/DL • NLP • LLMs • RAG • Agentic AI             |
-| 🌱 **Learning**       | MLOps • Cloud • Edge AI • AI Automation                           |
-| 💬 **Ask me about**   | Data Pipelines • ML Models • Power BI Dashboards • AI Systems     |
-| 📫 **Reach me**       | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com) |
-
-<br>
+| | |
+|---|---|
+| 🔭 **Currently** | Software Engineer Intern – Data Engineering @ **mFilterIt** |
+| 🎓 **Education** | B.Tech CSE (Data Science), BPIT GGSIPU — CGPA **9.1/10** (2023–2027) |
+| 🛠️ **Core Stack** | Python · SQL · Power BI · FastAPI · ClickHouse · AWS |
+| 🧠 **Specialization** | ETL Pipelines · ML/DL · NLP · LLMs · RAG · Agentic AI |
+| 🌱 **Learning** | MLOps · Cloud · Edge AI · AI Automation |
+| 📫 **Reach me** | jatin.chhabra22jc@gmail.com |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         CURRENTLY WORKING ON                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🗺️ My Journey
 
-## 🔥 Currently Working On
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="productive working"/>
-</div>
-
-<br>
-
-<div align="left">
-
-```yaml
-Role: Software Engineer Intern – Data Engineering
-Company: mFilterIt Pvt. Ltd.
-Location: On-Site
-Period: June 2026 – Present
-Category: Data Engineering
-Focus:
-  - Scalable data pipelines (Python + SQL)
-  - ETL workflows & data quality automation
-  - MySQL → ClickHouse migration
-  - API & production pipeline validation (1M+ records)
-  - Supporting AI/ML applications & analytics infrastructure
-Tech Stack: Python | SQL | ClickHouse | MySQL | FastAPI | Postman | AWS
+```mermaid
+timeline
+    title Jatin Chhabra — Professional Journey
+    2023 : Started B.Tech CSE (Data Science) at BPIT, GGSIPU
+    Jun–Jul 2025 : Frontend Developer Intern @ Sage Media
+                 : Built responsive webpages with React & JavaScript
+    Sep–Nov 2025 : Data Analyst Intern @ Finn FinTech
+                 : EDA · Sales dashboards · Business insights
+    Jan–Jun 2026 : Business Analyst Intern @ mFilterIt
+                 : SQL · Python · Power BI · International clients (US & Italy)
+    Jun 2026–Now : Software Engineer Intern – Data Engineering @ mFilterIt
+                 : ETL pipelines · ClickHouse migration · 1M+ record validation
+    2027         : B.Tech Graduation (Expected)
 ```
 
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ What I'm Building
-
-- Production-grade **ETL pipelines**
-- High-performance **analytical systems**
-- **ClickHouse** migration workflows
-- **FastAPI** production validation
-- Data infrastructure for **AI/ML**
-
-</td>
-<td width="50%">
-
-### 📈 Recent Impact
-
-- ✅ Built pipelines ingesting & validating **large-scale datasets**
-- ✅ Automated ETL reducing **manual reporting effort**
-- ✅ Optimized queries via **MySQL → ClickHouse** migration
-- ✅ Validated live dashboards handling **1M+ records**
-- ✅ Improved **data quality** across reporting pipelines
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="450" alt="multiprogramming"/>
-</div>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              EDUCATION                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 💼 Experience
 
-## 🎓 Education
-
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://user-images.githubusercontent.com/74038190/212259430-ff916193-4e93-4d05-a1a0-b50254048c55.png" width="200" />
-</td>
-<td>
-
-### 🏛️ Bachelor of Technology (B.Tech)
-
-**Computer Science & Engineering — Data Science**
-
-| Field              | Details                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------- |
-| 📊 **CGPA**        | **9.1 / 10**                                                                             |
-| 📌 **Status**      | Currently Pursuing                                                                       |
-| 🔬 **Focus Areas** | Machine Learning • Deep Learning • Data Engineering • AI • Statistics • Database Systems |
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="skills"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         PROFESSIONAL EXPERIENCE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="450" alt="work environment"/>
-</div>
-
-<br>
-
-### 1️⃣ Software Engineer Intern – Data Engineering
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-**🏢 mFilterIt Pvt. Ltd.** | 📍 On-Site | 📅 **June 2026 – Present**
-
-Building scalable data engineering solutions, production data pipelines, ETL workflows and high-performance analytical systems while supporting AI/ML applications and modern data infrastructure.
-
-**Key Responsibilities:**
-
-- Built **Python & SQL data pipelines** to ingest, clean, transform and validate large-scale datasets
-- Built **automated ETL** and data processing solutions to improve data quality & streamline workflows
+### Software Engineer Intern – Data Engineering · mFilterIt *(June 2026 – Present)*
+- Built **Python & SQL pipelines** to ingest, clean, transform, and validate large-scale datasets
 - Contributed to **MySQL → ClickHouse migration**, optimizing query performance for high-volume workloads
-- Performed **API & production pipeline validation** on live dashboards handling **1M+ records** using FastAPI & Postman
+- Performed **API & production pipeline validation** on live dashboards handling **1M+ records** via FastAPI & Postman
 
-**Tech Stack:** `Python` `SQL` `ClickHouse` `MySQL` `FastAPI` `Postman` `AWS` `ETL`
+`Python` `SQL` `ClickHouse` `MySQL` `FastAPI` `AWS`
 
-</td>
-<td width="30%" align="center" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="180" alt="development time"/>
-</td>
-</tr>
-</table>
+### Business Analyst Intern · mFilterIt *(Jan 2026 – Jun 2026)*
+- Analyzed & visualized business data for international clients (US & Italy) using SQL, Python, Excel & Power BI
+- Delivered KPI tracking dashboards, data cleaning, EDA, and actionable business insights
 
-<br>
+`SQL` `Python` `Power BI` `Excel`
 
----
+### Data Analyst Intern · Finn FinTech *(Sep 2025 – Nov 2025)*
+- Performed EDA on sales data to highlight factors impacting business performance
+- Developed sales tracking dashboards for monthly performance reviews
 
-### 2️⃣ Business Analyst Intern
+`Excel` `SQL` `Python`
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="180" alt="3d statistics"/>
-</td>
-<td width="70%" valign="top">
+### Frontend Developer Intern · Sage Media *(Jun 2025 – Jul 2025)*
+- Built and updated responsive webpages, implemented UI changes based on design feedback
 
-**🏢 mFilterIt Pvt. Ltd.** | 📍 On-Site | 📅 **January 2026 – June 2026**
-
-Analyzed and visualized business data for international clients using SQL, Python, Excel and Power BI to generate insights and track key performance metrics.
-
-**Key Responsibilities:**
-
-- Analyzed & visualized business data using **SQL, Python, Excel & Power BI** for international clients
-- Collaborated with cross-functional teams to translate business requirements into **dashboards & insights**
-- Performed **data cleaning, validation & EDA** to improve reporting accuracy
-- Built **business intelligence reports** and analytics dashboards
-
-**Tech Stack:** `SQL` `Python` `Power BI` `Excel` `Data Analytics` `Business Intelligence`
-
-</td>
-</tr>
-</table>
-
-<br>
+`React` `JavaScript` `CSS`
 
 ---
-
-### 3️⃣ Data Analyst Intern
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-**🏢 Finn FinTech** | 📍 Hybrid | 📅 **September 2025 – November 2025**
-
-Performed exploratory data analysis, developed sales tracking dashboards and generated business insights to support internal reporting.
-
-**Key Responsibilities:**
-
-- Performed **exploratory data analysis** to identify trends impacting business performance
-- Developed **sales tracking dashboards** and performance reports for internal teams
-- Cleaned and analyzed datasets using **Excel & SQL** to generate meaningful business insights
-
-**Tech Stack:** `Excel` `SQL` `Data Analysis` `Dashboarding` `Reporting`
-
-</td>
-<td width="30%" align="center" valign="top">
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="180" alt="automatic typing"/>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-### 4️⃣ Frontend Developer Intern
-
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="180" alt="web dev"/>
-</td>
-<td width="70%" valign="top">
-
-**🏢 Sage Media** | 📍 On-Site | 📅 **June 2025 – July 2025**
-
-Worked on building and updating responsive webpages as part of the development team, implementing UI changes based on design feedback.
-
-**Key Responsibilities:**
-
-- Built and updated **responsive webpages** as part of the development team
-- Implemented **UI changes and fixes** based on design feedback and requirements
-
-**Tech Stack:** `React` `JavaScript` `CSS` `Responsive Design`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300" alt="eat sleep code repeat"/>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              TECH STACK                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
-
-
-<br>
-
-### 💻 Programming & Analysis
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" title="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" title="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Scikit-learn"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" title="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" title="FastAPI"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" title="Jupyter"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" title="Power BI"/>
 
 </div>
 
 <br>
 
-| Category      | Technologies                                   |
-| ------------- | ---------------------------------------------- |
-| **Languages** | Python, SQL                                    |
-| **Databases** | MySQL, PostgreSQL, ClickHouse, SQLite, MongoDB |
-| **Libraries** | Scikit-learn, Pandas, NumPy                    |
-
-<br>
-
-### 🤖 Data Science & Machine Learning
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300" alt="molecules"/>
-</div>
-
-<br>
-
-```
-EDA • Data Preprocessing • Feature Engineering • Supervised Learning
-Unsupervised Learning • Regression • Classification • Clustering
-Model Evaluation • SMOTE • Statistical Analysis
-```
-
-<br>
-
-### 🧠 Deep Learning, NLP & Generative AI
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="60"/><br>
-<b>TensorFlow</b>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="60"/><br>
-<b>PyTorch</b>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="60"/><br>
-<b>Keras</b>
-</td>
-<td align="center" width="25%">
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" width="60"/><br> --> 
-<b>LLMs</b>
-</td>
-</tr>
-</table>
-
-<br>
-
-| Area              | Skills                                                |
-| ----------------- | ----------------------------------------------------- |
-| **Deep Learning** | Neural Networks, TensorFlow, Keras, PyTorch           |
-| **NLP**           | NLTK, Text Preprocessing, Tokenization, Vectorization |
-| **Gen AI**        | Prompt Engineering, LLMs, RAG, Agentic AI             |
-
-<br>
-
-### 📊 Business Intelligence & Visualization
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-
-</div>
-
-<br>
-
-| Tool                     | Use Case                                                  |
-| ------------------------ | --------------------------------------------------------- |
-| **Power BI**             | DAX, Data Modeling, Interactive Dashboards, KPI Reporting |
-| **Tableau**              | Data Visualization & Storytelling                         |
-| **Matplotlib / Seaborn** | Statistical & Exploratory Visualizations                  |
-| **Plotly.js**            | Interactive Charts & Geospatial Visualizations            |
-
-<br>
-
-### ⚙️ Tools & Platforms
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/>
-
-</div>
-
-<br>
-
-| Category           | Tools                                                |
-| ------------------ | ---------------------------------------------------- |
-| **Backend & APIs** | FastAPI, REST APIs, Postman, Node.js, Express, Flask |
-| **DevOps & Cloud** | Git, Docker, AWS, Microsoft Azure, Snowflake         |
-| **Frontend**       | React, React Native, JavaScript, CSS, Vite           |
-| **Database Tools** | DBeaver, Advanced Excel                              |
-| **Other**          | Jupyter Notebook, Streamlit, Leaflet                 |
-
-<br>
-
-### 📈 Skill Proficiency Overview
-
-```python
-skills = {
-    "Python":           "████████████████████ 95%",
-    "SQL":              "███████████████████░ 90%",
-    "Machine Learning": "██████████████████░░ 85%",
-    "Data Engineering": "█████████████████░░░ 82%",
-    "Power BI":         "████████████████░░░░ 80%",
-    "Deep Learning":    "███████████████░░░░░ 78%",
-    "NLP & Gen AI":     "██████████████░░░░░░ 75%",
-    "FastAPI":          "█████████████░░░░░░░ 72%",
-    "React":            "████████████░░░░░░░░ 70%",
-    "Cloud (AWS/Azure)":"███████████░░░░░░░░░ 65%",
-}
+```mermaid
+mindmap
+  root((Jatin's Stack))
+    Languages
+      Python
+      SQL
+    ML & AI
+      Scikit-learn
+      TensorFlow / Keras
+      PyTorch
+      XGBoost · LightGBM
+      SHAP · MLflow
+    GenAI & LLMs
+      LLaMA · Qwen · Ollama
+      RAG · ChromaDB
+      LangChain · HuggingFace
+      Prompt Engineering
+    Data Engineering
+      ClickHouse · MySQL
+      PostgreSQL · MongoDB
+      ETL Pipelines
+      Apache Spark
+    BI & Visualization
+      Power BI · Tableau
+      Matplotlib · Seaborn
+      Plotly.js
+    Tools & Platforms
+      FastAPI · Flask
+      Docker · Git
+      AWS · Azure · Snowflake
+      React · Node.js
 ```
 
-<br>
+### Skill Proficiency
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200" alt="pro debugging"/>
-</div>
+| Skill | Level |
+|---|---|
+| Python | `████████████████████` 95% |
+| SQL | `███████████████████░` 90% |
+| Machine Learning | `██████████████████░░` 85% |
+| Data Engineering | `█████████████████░░░` 82% |
+| Power BI | `████████████████░░░░` 80% |
+| Deep Learning | `███████████████░░░░░` 78% |
+| NLP & Gen AI | `██████████████░░░░░░` 75% |
+| Cloud (AWS/Azure) | `███████████░░░░░░░░░` 65% |
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           FEATURED PROJECTS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## ⭐ Featured Projects
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400" alt="happy coder"/>
-</div>
-
-<br>
-
 ### 🤖 1. InsightAI — AI Data Intelligence Platform
+> End-to-end AI platform unifying dataset analysis, AutoML, forecasting, explainable AI, RAG Copilot, and AI-generated reporting.
 
+```mermaid
+flowchart LR
+    A[📥 Raw Data] --> B[🧹 Profile & Clean]
+    B --> C[🔍 SQL & NL Query]
+    C --> D[🤖 AutoML & Train]
+    D --> E[🧠 SHAP & Explain]
+    E --> F[📈 Forecast & Predict]
+    F --> G[🤖 RAG Copilot]
+    G --> H[📄 AI Report]
+```
 
-An end-to-end **AI-powered data intelligence platform** that unifies dataset analysis, automated machine learning, forecasting, explainable AI, RAG-powered Copilot, and AI-generated reporting into a single collaborative workspace.
+- **390+ backend tests** · JWT + RBAC security · Workspace collaboration · Model registry
+- **Tech:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `XGBoost` `Prophet` `MLflow` `ChromaDB` `Ollama` `RAG` `SHAP`
 
-|                 |                                                                                                                 |
-| --------------- | --------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem** | Fragmented data workflows require separate tools for data preparation, analytics, ML, forecasting, and reporting |
-| 🟢 **Solution** | Unified AI workspace transforming raw datasets into insights, ML models, forecasts, predictions, and decision-ready reports |
-| ✨ **Features** | Data profiling • SQL & NL analytics • Automated ML • Model registry • Predictions • SHAP • Forecasting • RAG Copilot • AI insights • PDF reports • RBAC • Workspace collaboration |
-| 🔐 **Security** | JWT authentication • RBAC • Workspace isolation • IDOR protection • Rate limiting • SQL injection protection |
-| ⚡ **Testing** | 390+ backend tests • Property-based testing • Security & regression testing |
-
-**Tech:** `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Scikit-learn` `XGBoost` `Prophet` `Pandas` `DuckDB` `ChromaDB` `MLflow` `Ollama` `RAG` `SHAP` `TanStack Query`
-
-**Pipeline:** `Data → Profile → Clean → Query → Analyze → Train → Explain → Predict/Forecast → Copilot → Report`
-<br>
+---
 
 ### 🏥 2. AI Pharma Decision System
+> 4-layer AI system integrating NLP, ML, Deep Learning, and a rule-based Decision Engine for pharmaceutical decision-making.
 
-<table>
-<tr>
-<td width="65%" valign="top">
+```mermaid
+flowchart TD
+    A[📦 Pharmaceutical Data\nStructured + Unstructured] --> B[🔤 NLP Layer\nSentiment · Side-effect Extraction]
+    A --> C[🤖 ML/DL Layer\nDemand Prediction · Trial Success]
+    B --> D[⚙️ Decision Engine\nRule-based Logic]
+    C --> D
+    D --> E[📊 Streamlit Dashboard\nReal-time Analytics · Risk Assessment]
+```
 
-An advanced AI system for pharmaceutical decision-making combining **predictive modeling**, **NLP-based drug information extraction**, and **demand forecasting**. Utilized classical ML and deep learning to optimize supply chains and reduce stockout risks.
+- **Tech:** `Python` `Scikit-learn` `TensorFlow` `NLP` `Streamlit`
 
-|                 |                                                                                                                 |
-| --------------- | --------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem**  | Manual, error-prone pharmaceutical supply chain decisions causing stockouts and waste                           |
-| 🟢 **Solution** | ML ensemble + NLP pipeline automating demand forecasting and decision support                                   |
-| ✨ **Features** | Demand forecasting • NLP drug extraction • Supply chain optimization • Deep learning pipelines • Explainable AI |
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://ai-pharma-decision-system-wzns9osvwjecmix4fqtpa3.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JatinChhabra22/AI-PHARMA-DECISION-SYSTEM)
 
-**Tech:** `Machine Learning` `Deep Learning` `NLP` `Python` `Scikit-learn`
-
-</td>
-<td width="35%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180" alt="mr robot"/>
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-pharma-decision-system-wzns9osvwjecmix4fqtpa3.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/AI-PHARMA-DECISION-SYSTEM)
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ### 🩺 3. DocBuddy — Medical AI Symptom Analysis & LLM Fine-Tuning
+> Dual-model system combining LightGBM classification with QLoRA fine-tuned LLaMA-3 8B for symptom prediction and conversational medical AI.
 
-An end-to-end **medical AI platform** that combines classical machine learning and generative AI to analyze patient symptoms, predict diseases, and explore conversational medical assistance through a fine-tuned LLaMA-3 model.
+```mermaid
+flowchart LR
+    A[246K+ Medical Records] --> B[LightGBM Classifier]
+    B --> C[Disease Prediction\n773 diseases · 377 features]
+    D[Medical Dataset] --> E[QLoRA Fine-tuning\nLLaMA-3 8B]
+    E --> F[Conversational\nMedical AI]
+    C --> G[FastAPI + Streamlit]
+    F --> G
+```
 
-|                     |                                                                                                                                                                                                                     |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem**      | Symptom-based disease prediction typically relies on either rigid ML classifiers or general-purpose LLMs, lacking a unified approach for fast prediction and conversational analysis                                |
-| 🟢 **Solution**     | Dual-model medical AI system combining a lightweight LightGBM classifier with a QLoRA fine-tuned LLaMA-3 8B for structured prediction and conversational responses                                                  |
-| ✨ **Features**      | Symptom-based disease prediction • 773 diseases • 377 symptom features • Confidence scoring • LLaMA-3 fine-tuning • QLoRA • Model evaluation • SHAP-ready ML pipeline • FastAPI • Streamlit • Interactive inference |
-| 🤖 **ML Pipeline**  | 246K+ medical records → preprocessing → LightGBM classification → disease prediction → confidence scores                                                                                                            |
-| 🧠 **LLM Pipeline** | Medical dataset → instruction formatting → train/validation/test split → LLaMA-3 8B → QLoRA fine-tuning → evaluation → inference                                                                                    |
-| 🔐 **Safety**       | Medical disclaimer • Uncertainty-aware responses • No medication prescriptions • No definitive diagnosis claims                                                                                                     |
-| ⚡ **Deployment**    | Streamlit symptom checker • FastAPI REST API • Interactive CLI inference                                                                                                                                            |
-
-**Tech:** `Python` `LightGBM` `Scikit-learn` `Pandas` `NumPy` `LLaMA-3 8B` `QLoRA` `LoRA` `PEFT` `TRL` `BitsAndBytes` `HuggingFace` `FastAPI` `Streamlit` `Joblib`
-
-**Pipeline:** `Symptoms → Preprocess → Classify → Explain → Predict`
-**LLM Pipeline:** `Dataset → Instruction Format → QLoRA Fine-Tuning → Evaluate → Inference → API`
-<br>
----
-
-### 💧 4. NeerSetu — Water Quality Monitoring System
-
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="200" alt="lets do it"/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/NeerSetu)
-
-</td>
-<td width="65%" valign="top">
-
-A comprehensive **water quality monitoring and health management system** designed for rural communities. Combines IoT sensors, machine learning, and real-time analytics for early warning systems.
-
-|                 |                                                                                                                             |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem**  | Lack of real-time water quality monitoring and early warning in rural communities                                           |
-| 🟢 **Solution** | IoT sensor network + ML-powered health risk prediction with multi-channel alerts                                            |
-| ✨ **Features** | Real-time monitoring • AI health risk prediction • Mobile app • Admin dashboard • Multi-channel alerts • Geographic mapping |
-
-**Tech:** `React` `React Native` `Node.js` `Express` `MongoDB` `Python` `FastAPI` `Leaflet`
-
-</td>
-</tr>
-</table>
-
-<br>
+- **Tech:** `LightGBM` `LLaMA-3 8B` `QLoRA` `PEFT` `HuggingFace` `FastAPI` `Streamlit`
 
 ---
 
-### 🛒 5. OrderFlow — E-Commerce Sales & Operations Analytics
+### 💧 4. NeerSetu — Water Quality Monitoring
+> IoT + ML-powered water quality monitoring system for rural communities with real-time alerts and geographic mapping.
 
-<table>
-<tr>
-<td width="65%" valign="top">
+```mermaid
+flowchart LR
+    A[🌊 IoT Sensors] --> B[📡 Real-time Data Stream]
+    B --> C[🤖 ML Risk Predictor]
+    C --> D{Health Risk?}
+    D -- High --> E[🚨 Multi-channel Alert\nSMS · App · Email]
+    D -- Safe --> F[✅ Dashboard Update]
+    E --> G[🗺️ Geographic Map\nLeaflet.js]
+    F --> G
+```
 
-Analyzed **100K+ records** to uncover hidden revenue drivers and operational bottlenecks. Built automated ETL pipelines from raw transactional data into a clean PostgreSQL warehouse, then visualized KPIs through interactive Power BI dashboards.
+- Real-time sensor data · AI health risk prediction · Mobile app · Multi-channel alerts
+- **Tech:** `React` `React Native` `Node.js` `Python` `FastAPI` `MongoDB` `Leaflet`
 
-|                 |                                                                                                                       |
-| --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem**  | Fragmented sales data across multiple sources with no unified analytics                                               |
-| 🟢 **Solution** | End-to-end pipeline: raw data → cleaned warehouse → interactive dashboards                                            |
-| ✨ **Features** | 100K+ records processed • Automated ETL • Interactive Power BI dashboards • Revenue trend analysis • Operational KPIs |
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JatinChhabra22/NeerSetu)
 
-**Tech:** `Python` `SQL` `PostgreSQL` `Power BI` `Excel`
+---
 
-</td>
-<td width="35%" align="center" valign="top">
+### 📊 5. OrderFlow — E-Commerce Sales Analytics
+> Processed 100K+ records with automated ETL into PostgreSQL, visualized through interactive Power BI dashboards.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="180" alt="multi screen"/>
+```mermaid
+flowchart LR
+    A[🗃️ Raw Transactional\nData 100K+ records] --> B[🔄 ETL Pipeline\nPython · SQL]
+    B --> C[🏪 PostgreSQL\nData Warehouse]
+    C --> D[📊 Power BI\nInteractive Dashboards]
+    D --> E[💰 Revenue Trends]
+    D --> F[⚙️ Operational KPIs]
+    D --> G[📦 Product Analytics]
+```
 
-<br>
+- **Tech:** `Python` `SQL` `PostgreSQL` `Power BI`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/OrderFlow-End-to-End-E-Commerce-Sales-Operations-Analytics)
-
-</td>
-</tr>
-</table>
-
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JatinChhabra22/OrderFlow-End-to-End-E-Commerce-Sales-Operations-Analytics)
 
 ---
 
 ### 🍔 6. Swiggy Analytics — Food Delivery Insights
+> SQL-powered analytics uncovering demand patterns, top-performing restaurants, and city-level growth opportunities.
 
-<table>
-<tr>
-<td width="35%" align="center" valign="top">
+- **Tech:** `Python` `SQL` `PostgreSQL` `Power BI`
 
-<img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="200" alt="designer vs developer"/>
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jatinchhabra22/Swiggy-Food-Delivery-Analytics)
-
-</td>
-<td width="65%" valign="top">
-
-Deep-dived into Swiggy's delivery ecosystem to uncover **demand patterns**, **top-performing restaurants**, and **city-level growth opportunities**. Combined SQL querying with Power BI storytelling for actionable business expansion insights.
-
-|                 |                                                                                                                                    |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 🔴 **Problem**  | No visibility into which cities, cuisines, or restaurants drive the most value                                                     |
-| 🟢 **Solution** | SQL-powered analytics layer surfacing demand patterns and growth levers                                                            |
-| ✨ **Features** | City-level demand mapping • Restaurant performance ranking • Cuisine trend analysis • SQL optimization • Interactive BI dashboards |
-
-**Tech:** `Python` `SQL` `PostgreSQL` `Power BI`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="code cool stuff"/>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/JatinChhabra22/Swiggy-Food-Delivery-Analytics)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              ALL PROJECTS                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 📂 More Projects
 
-## 📂 All Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="400" alt="typing"/>
-</div>
-
-<br>
-
-| #   | Project                               | Description                                                                                 | Tech Stack                                 | Link                                                                        |
-| --- | ------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
-| 7   | **Smart Attendance & Curriculum App** | AI-powered face recognition attendance, ML attendance prediction & NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗 Repo](https://github.com/Jatinchhabra22/Smart-Attendance-Cirrculam-App) |
-| 8   | **OTT Platform Analysis**             | Cross-platform EDA of Netflix, Prime & Disney+ content trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/OTT-Analysis-)                  |
-| 9   | **NovaStat**                          | Full-stack govt survey data processing with bias detection & MoSPI reports                  | React, Vite, FastAPI, Pandas, Plotly.js    | [🔗 Repo](https://github.com/Jatinchhabra22/NovaStat)                       |
-| 10   | **UPI Transaction Analysis**          | EDA of 15,000+ UPI transactions — patterns, failures & trends                               | Python, Pandas, Matplotlib, Seaborn        | [🔗 Repo](https://github.com/Jatinchhabra22/UPI-Transaction-Analysis-)      |
-
-<br>
-
-### 📋 Project Details
-
-<details>
-<summary><b>🎓 Smart Attendance & Curriculum App</b></summary>
-
-<br>
-
-An intelligent AI-powered system designed to automate attendance using **Face Recognition**, predict future attendance patterns using **Machine Learning**, and optimize student free-time with personalized task recommendations.
-
-- **Problem:** Manual attendance is time-consuming and prone to proxy; no personalized free-time task suggestions
-- **Solution:** 3-layer microservice architecture with face recognition, attendance prediction, and NLP-based task recommendations
-- **Features:** AI Face Recognition • Attendance Prediction (Linear Regression) • Free-Time Optimizer (TF-IDF + Cosine Similarity) • Chart.js Analytics • Multi-Role Dashboards • Email Alerts
-- **Tech:** React, Node.js, Express, MySQL, Python, Flask, dlib, scikit-learn
-
-</details>
-
-<details>
-<summary><b>📺 OTT Platform Analysis</b></summary>
-
-<br>
-
-A comprehensive exploratory data analysis of content from major OTT platforms including **Netflix, Amazon Prime, and Disney+** to uncover trends in content distribution, genres, ratings, and more.
-
-- **Features:** Platform-wise Content Distribution • Content Type Comparison • Release Year Trends • Top Genres • Rating Distribution • Top Countries • Content Added Over Time
-- **Tech:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
-</details>
-
-<details>
-<summary><b>📊 NovaStat — Survey Analytics Platform</b></summary>
-
-<br>
-
-A production-ready full-stack web application for processing government survey datasets, cleaning data, detecting statistical biases, applying design weights, and generating **MoSPI-compliant analytical reports**.
-
-- **Features:** CSV/Excel Ingestion • Automated Data Cleaning • Bias Detection Heatmaps • Design Weight Application • MoSPI Reports • Geospatial Visualizations
-- **Tech:** React, Vite, FastAPI, Pandas, NumPy, scikit-learn, SQLite, Plotly.js
-
-</details>
-
-<details>
-<summary><b>💳 UPI Transaction Analysis</b></summary>
-
-<br>
-
-An in-depth exploratory data analysis of **15,000+ UPI transactions** to understand payment patterns, success/failure rates, popular apps, transaction types, and time-based trends.
-
-- **Features:** Transaction Status Analysis • Failure Reasons • Popular UPI Apps • Transaction Types • Merchant Categories • Hourly Patterns • Top Cities
-- **Tech:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="250" alt="sketch working"/>
-</div>
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **Smart Attendance App** | AI face recognition attendance + ML prediction + NLP task recommendations | React, Node.js, Python, Flask, MySQL, dlib | [🔗](https://github.com/JatinChhabra22/Smart-Attendance-Cirrculam-App) |
+| **OTT Platform Analysis** | EDA of Netflix, Prime & Disney+ content trends | Python, Pandas, Matplotlib | [🔗](https://github.com/JatinChhabra22/OTT-Analysis-) |
+| **NovaStat** | Govt survey data processing with bias detection & MoSPI reports | React, FastAPI, Pandas, Plotly.js | [🔗](https://github.com/JatinChhabra22/NovaStat) |
+| **UPI Transaction Analysis** | EDA of 15,000+ UPI transactions — patterns, failures & trends | Python, Pandas, Matplotlib | [🔗](https://github.com/JatinChhabra22/UPI-Transaction-Analysis-) |
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           CERTIFICATIONS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📜 Certifications
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" alt="bullseye"/>
-</div>
-
-<br>
-
-| #   | Certification                                                | Platform           |
-| --- | ------------------------------------------------------------ | ------------------ |
-| 1   | Complete Data Science, Machine Learning, DL & NLP Bootcamp   | 🟣 Udemy           |
-| 2   | Complete Data Analyst Bootcamp                               | 🟣 Udemy           |
-| 3   | Complete Generative AI Course With Langchain and Huggingface | 🟣 Udemy           |
-| 4   | The Ultimate Job-Ready Data Science Course                   | 🔴 Code with Harry |
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/216122986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="60"/>
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           GITHUB STATS                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jatinchhabra22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinchhabra22&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatinchhabra22&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JatinChhabra22&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JatinChhabra22&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JatinChhabra22&theme=tokyonight" width="32%"/>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="busy work"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JatinChhabra22&theme=tokyonight" width="66%"/>
+<!-- <img src="https://streak-stats.demolab.com?user=JatinChhabra22&theme=tokyonight&hide_border=true" width="32%"/> !-->
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           INTERESTS                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 📜 Certifications
 
-## 🌟 Interests & Focus Areas
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="350" alt="thoughts"/>
-</div>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70"/><br>
-<b>🤖 LLMs & Agents</b><br>
-<sub>Building intelligent autonomous systems</sub>
-</td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="70"/><br>
-<b>☁️ MLOps & Cloud</b><br>
-<sub>Deploying models at scale</sub>
-</td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="70"/><br>
-<b>📦 Data Products</b><br>
-<sub>End-to-end data-driven solutions</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="70"/><br>
-<b>⚡ AI Automation</b><br>
-<sub>Automating workflows with AI</sub>
-</td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="70"/><br>
-<b>🔬 AI Research</b><br>
-<sub>Exploring cutting-edge AI</sub>
-</td>
-<td align="center" width="200">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="70"/><br>
-<b>📱 Edge AI</b><br>
-<sub>AI on resource-constrained devices</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="350" alt="keep moving forward"/>
-</div>
+| Certification | Platform |
+|---|---|
+| Complete Data Science, ML, DL & NLP Bootcamp | Udemy |
+| Complete Data Analyst Bootcamp | Udemy |
+| Complete Generative AI Course with LangChain & HuggingFace | Udemy |
+| The Ultimate Job-Ready Data Science Course | Code with Harry |
 
 ---
-
-
-
-### 🔄 My Development Workflow
-
-```
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│  📥 Ingest   │ →  │  🧹 Clean   │ →  │  🔬 Analyze │ →  │  🤖 Model   │ →  │  📊 Deploy  │
-│  Raw Data   │    │  Transform  │    │  Explore    │    │  Train      │    │  Dashboard  │
-└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
-```
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="280" alt="how my code works"/>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="280" alt="why my code works"/>
-</div>
-
----
-
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           LET'S CONNECT                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📫 Let's Connect
 
-<div align="center">
+I'm always open to collaborating on **AI/ML projects**, **data engineering challenges**, and **innovative data products**.
 
-<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150" alt="handshake"/>
-
-<br><br>
-
-I'm always open to collaborating on **AI/ML projects**, **data engineering challenges**, and **innovative data products**. Whether you want to discuss ideas, review code, or explore opportunities — feel free to reach out!
-
-<br>
-
-
-<br><br>
-
-| Platform        | Link                                                                  |
-| --------------- | --------------------------------------------------------------------- |
-| 📧 **Email**    | [jatin.chhabra22jc@gmail.com](mailto:jatin.chhabra22jc@gmail.com)     |
-| 💼 **LinkedIn** | [jatin-chhabra](https://www.linkedin.com/in/jatin-chhabra-2b0455289/) |
-| 💻 **GitHub**   | [@Jatinchhabra22](https://github.com/Jatinchhabra22)                  |
-
-<br>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bea7769e-cd87-495f-ad0e-04ddfbb73091" width="350" alt="warm greetings"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              FOOTER                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+| Platform | Link |
+|---|---|
+| 📧 Email | jatin.chhabra22jc@gmail.com |
+| 💼 LinkedIn | [jatin-chhabra](https://www.linkedin.com/in/jatin-chhabra-2b0455289/) |
+| 💻 Portfolio | [jatin-chhabra-22.vercel.app](https://jatin-chhabra-22.vercel.app/) |
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700" alt="gradient line"/>
+<br>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="120" alt="wave"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 <br>
 
-### Thanks for visiting my profile! 👋
-
-<img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" alt="sparkle"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Jatin%20Chhabra&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-
-<br><br>
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-<img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-
-<br><br>
-
-**⭐ If you like my work, consider starring my repositories!**
-
-<br>
-
-<sub>Made with ❤️ and lots of ☕ by <b>Jatin Chhabra</b></sub>
-
-<br>
-
-<sub>Design assets inspired by <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme">GIFs For Readme</a> by Anmol Baranwal</sub>
+<sub>Made with ❤️ by <b>Jatin Chhabra</b></sub>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              END OF README                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
