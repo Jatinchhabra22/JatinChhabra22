@@ -60,7 +60,7 @@ timeline
 - Contributed to **MySQL → ClickHouse migration**, optimizing query performance for high-volume workloads
 - Performed **API & production pipeline validation** on live dashboards handling **1M+ records** via FastAPI & Postman
 
-`Python` `SQL` `ClickHouse` `MySQL` `FastAPI` `AWS``Data Science``ML``NLP``GenAI`
+`Python` `SQL` `ClickHouse` `MySQL` `FastAPI` `AWS` `Data Science` `ML` `NLP` `GenAI`
 
 ### Business Analyst Intern · mFilterIt *(Jan 2026 – Jun 2026)*
 - Analyzed & visualized business data for international clients (US & Italy) using SQL, Python, Excel & Power BI
